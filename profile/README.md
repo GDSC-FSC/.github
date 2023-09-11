@@ -1,8 +1,9 @@
 # Google Developer Students Club | SUNY Farmingdale
 
 ![GDSC Farmingdale Logo](./profile/assets/GDSC-Farmingdale.png)
-<!-- <img src="./assets/GDSC-Farmingdale.png" width="100%" height="100%" alt="GDSC Farmingdale logo" dir="auto"/> -->
 
+<!-- <img src="./assets/GDSC-Farmingdale.png" width="100%" height="100%" alt="GDSC Farmingdale logo" dir="auto"/> -->
+[Events🥳](https://gdsc.community.dev/farmingdale-state-college/)
 ## About Us
 
 > The mission of GDSC Farmingdale State College is an opportunity for students to gain practical experience in building applications and services, develop their skills in software engineering, and explore new areas of technology. This helps them to become better prepared for careers in the technology industry and to contribute to the development of innovative solutions that can make a positive impact on society.
