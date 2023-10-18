@@ -23,3 +23,4 @@ You can see the projects we did in the repositories.
 ### Core Members
 
 @Jkollar116
+@RadNotRed
