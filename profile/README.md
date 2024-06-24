@@ -1,9 +1,11 @@
 # Google Developer Students Club | SUNY Farmingdale
 
-![GDSC Farmingdale Logo](./profile/assets/GDSC-Farmingdale.png)
+![GDSC Farmingdale Logo](https://github.com/GDSC-FSC/.github/assets/95197809/83bbb758-f609-40bf-89f2-3919d20cab6c)
+
 
 <!-- <img src="./assets/GDSC-Farmingdale.png" width="100%" height="100%" alt="GDSC Farmingdale logo" dir="auto"/> -->
 [Events🥳](https://gdsc.community.dev/farmingdale-state-college/)
+[GDSC Farmingdale Links Website](https://gdsc-fsc-l.web.app/)
 
 ## About Us
 
