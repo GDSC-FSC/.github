@@ -5,9 +5,9 @@
 
 <!-- <img src="./assets/GDSC-Farmingdale.png" width="100%" height="100%" alt="GDSC Farmingdale logo" dir="auto"/> -->
 
-> [Events🥳](https://gdg.community.dev/gdg-on-campus-farmingdale-state-college-farmingdale-united-states/)
-> [GDSC Farmingdale Links Website](https://gdsc-fsc-l.web.app/)
-> [Website](https://gdg-fsc.web.app/)
+- ![Events🥳](https://gdg.community.dev/gdg-on-campus-farmingdale-state-college-farmingdale-united-states/)
+- ![GDSC Farmingdale Links Website](https://gdsc-fsc-l.web.app/)
+- ![Website](https://gdg-fsc.web.app/)
 
 ## About Us
 
