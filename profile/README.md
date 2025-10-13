@@ -11,9 +11,9 @@
 
 ## About Us
 
-> GDG on Campus Farmingdale State College - Farmingdale, United States is an independent group where students can gain practical experience in building applications and services, develop their software engineering skills, and explore new areas of technology. This helps them become better prepared for careers in the technology industry and contribute to the development of innovative solutions that can positively impact society.
-> Google Developer Groups (GDG) are community groups for developers interested in learning and practicing development skills. These groups provide a space for developers to learn how to build real-world solutions using various technologies and platforms, offering opportunities for members to connect, learn, and grow together.
-> The purpose of GDG on Campus is to empower students to learn, grow, and connect with other developers through hands-on workshops, mentorship, and collaboration. We offer a platform for students to explore new technologies, work on real-world projects, and build their professional networks.
+- GDG on Campus Farmingdale State College - Farmingdale, United States is an independent group where students can gain practical experience in building applications and services, develop their software engineering skills, and explore new areas of technology. This helps them become better prepared for careers in the technology industry and contribute to the development of innovative solutions that can positively impact society.
+- Google Developer Groups (GDG) are community groups for developers interested in learning and practicing development skills. These groups provide a space for developers to learn how to build real-world solutions using various technologies and platforms, offering opportunities for members to connect, learn, and grow together.
+- The purpose of GDG on Campus is to empower students to learn, grow, and connect with other developers through hands-on workshops, mentorship, and collaboration. We offer a platform for students to explore new technologies, work on real-world projects, and build their professional networks.
 
 ## Projects
 
