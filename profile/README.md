@@ -21,9 +21,9 @@ You can see the projects we did in the repositories.
 
 ## Members
 
-### Lead
+### Leads
 
-@WomB0ComB0
+@WomB0ComB0 @NiaB19
 
 ### Core Members
 
